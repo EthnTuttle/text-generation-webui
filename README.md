@@ -51,6 +51,8 @@ Just download the zip above, extract it, and double-click on "start". The web UI
 
 ### Manual installation using Conda
 
+⚠️⚠️⚠️NO REALLY, YOU SHOULD USE THE ONE-CLICK INSTALL, IT'S GUIDED⚠️⚠️⚠️
+
 Recommended if you have some experience with the command line.
 
 On Windows, I additionally recommend carrying out the installation on WSL instead of the base system: [WSL installation guide](https://github.com/oobabooga/text-generation-webui/blob/main/docs/WSL-installation-guide.md).
